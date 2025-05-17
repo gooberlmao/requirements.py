@@ -1,0 +1,9 @@
+pip install pexpect
+pip install pycrypto
+pip install requests
+pip install pyopenssl
+pip install pefile
+pip install impacket
+pip install qrcode
+pip install pillow
+pip install pymssql<3.0
